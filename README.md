@@ -1,7 +1,7 @@
 
 ![Supabase Logo](https://supabase.com/_next/image?url=%2Fimages%2Fsupabase-logo-wordmark--light.svg&w=3840&q=75)
 
-### Supabase, let's build the future together 🚀
+### Hi Supabase, let's build the future together 🚀
 
 I bring 5+ years of experience managing $1B+ portfolios, scaling open source products, and working cross-functionally with engineering to drive efficiency and growth.
 
