@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![Supabase Logo](https://supabase.com/_next/image?url=%2Fimages%2Fsupabase-logo-wordmark--light.svg&w=3840&q=75)
 
 ### Supabase, let's build the future together 🚀
