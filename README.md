@@ -1,16 +1,15 @@
 ## Hi there 👋
+![Supabase Logo](https://supabase.com/_next/image?url=%2Fimages%2Fsupabase-logo-wordmark--light.svg&w=3840&q=75)
 
-<!--
-**wopwwiww/wopwwiww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Supabase, let's build the future together 🚀
 
-Here are some ideas to get you started:
+I bring 5+ years of experience managing $1B+ portfolios, scaling open source products, and working cross-functionally with engineering to drive efficiency and growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Highlights:
+- Managed end-to-end P&L for $1B+ emerging Database and Analytics products
+- Partnered with engineering leadership to develop KPIs (vCore utilization, monetization, unit economics, P×Q) that improved gross margins by 6pts in 2 years
+- Drove cost optimization initiatives across compute and storage, achieving $500M+ in savings
+- Deep experience with open source ecosystems, particularly PostgreSQL and MySQL
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/nikolaput/) | [Email](mailto:nlaput@umich.edu)
