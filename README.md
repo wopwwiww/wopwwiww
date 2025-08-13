@@ -1,6 +1,6 @@
 
 
-### Hi Supabase, let's build the future together 🚀
+### Hi, let's build the future together 🚀
 
 I bring 5+ years of experience managing $1B+ portfolios, scaling open source products, and working cross-functionally with engineering to drive efficiency and growth.
 
